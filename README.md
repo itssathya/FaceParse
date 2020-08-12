@@ -6,4 +6,4 @@ You will need to download Openface NN4 file.
 
 References/Attribution:
 
-[1] https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
